@@ -1,6 +1,6 @@
 Name:		texlive-ndsu-thesis
 Version:	46639
-Release:	1
+Release:	2
 Summary:	North Dakota State University disquisition class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ndsu-thesis
