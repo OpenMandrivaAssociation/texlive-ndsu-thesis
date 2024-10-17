@@ -3,7 +3,7 @@ Version:	46639
 Release:	2
 Summary:	North Dakota State University disquisition class
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ndsu-thesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ndsu-thesis
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ndsu-thesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ndsu-thesis.doc.r%{version}.tar.xz
